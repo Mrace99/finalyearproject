@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\pythonProjectSign\\handsign.model"
+all_model_checkpoint_paths: "D:\\pythonProjectSign\\handsign.model"
